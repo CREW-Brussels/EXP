@@ -1,3 +1,6 @@
 [submodule "CHORUS"]
 	path = CHORUS
 	url = https://github.com/CREW-Brussels/CHORUS.git
+[submodule "Spin"]
+	path = Spin
+	url = https://github.com/CREW-Brussels/Spin.git
