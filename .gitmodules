@@ -1,0 +1,3 @@
+[submodule "CHORUS"]
+	path = CHORUS
+	url = https://github.com/CREW-Brussels/CHORUS.git
