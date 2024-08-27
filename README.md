@@ -3,7 +3,7 @@ Embodied XR Performance Framework is a framework for creating immersive performa
 
 It consists of
 
-## XR Multiplayer Template Project
+## Performative LBX Example Project
 A multiplayer project with advanced features for performative LBX.
 ## CHORUS
 ### CHORUS animation susbsystem
