@@ -1,7 +1,9 @@
 # EXP
 Embodied XR Performance Framework is a framework for creating immersive performances, mostly in Unreal Engine.
+The framework is currently under heavy development and can be majorly refactored at any time.
+If you are bold enough to try it, we recommend Unreal Engine 5.3 
 
-It consists of
+It consists of:
 
 ## Performative LBX Example Project
 A multiplayer project with advanced features for performative LBX.
