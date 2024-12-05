@@ -1,7 +1,8 @@
 # EXP
 Embodied XR Performance Framework is a framework for creating immersive performances, mostly in Unreal Engine.
 The framework is currently under heavy development and can be majorly refactored at any time.
-If you are bold enough to try it, we recommend Unreal Engine 5.3 
+If you are bold enough to try it, we recommend Unreal Engine 5.3.
+You can check our [WIKI](https://github.com/CREW-Brussels/EXP/wiki) for complete documentation.
 
 It consists of:
 
