@@ -15,7 +15,7 @@ It consists of:
 A multiplayer project with advanced features for performative LBX.
 ## CHORUS
 
-https://github.com/CREW-Brussels/CHORUS\
+https://github.com/CREW-Brussels/CHORUS
 
 <img src=".doc/img/Chorus_logo_white.png" alt="drawing" width="600">
 
