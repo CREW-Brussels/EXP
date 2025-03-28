@@ -8,32 +8,47 @@ You can check our [WIKI](https://github.com/CREW-Brussels/EXP/wiki) for complete
 
 It consists of:
 
-## Performative LBX Example Project
+## CREW XR Template
+
+<img src=".doc/img/XRTemplate_logo_white.png" alt="drawing" width="600">
+
 A multiplayer project with advanced features for performative LBX.
 ## CHORUS
-https://github.com/CREW-Brussels/CHORUS
+
+https://github.com/CREW-Brussels/CHORUS\
+
+<img src=".doc/img/Chorus_logo_white.png" alt="drawing" width="600">
+
 ### CHORUS animation susbsystem
 The CHORUS Animation subsystem records animation data into buffers and plays it back in different ways.
 ### Interactive Performer Tools
 Interactive Performance Tools that leverage this system in different ways for the performers.
 ### CREWAnimationUtilities
 CREW AnimationUtilities to solve ad hoc problems such as driftcorrection
+
+
 ## SPIN (SPatial Interface Network) 
+
+https://github.com/CREW-Brussels/SPIN
+
+<img src=".doc/img/spin_logo_white.png" alt="drawing" width="600">
+
 SPatial Interface Network is a unity app that runs on an android HMD.
 It collects data from sensors such as Vive Ultimate Tracker and sends it over Open Sound Control to other applications.
 It can be controlled through a web interface.
 
-https://github.com/CREW-Brussels/SPIN
+
 
 ## CIRCA (Crew InteRaCtive Archive)
-Crew InteRaCtive Archive is a way for recording performances into Unreal, baking them into a standalone application which can be used for playback with or without VR headset.
 
 https://github.com/CREW-Brussels/CIRCAPlayer
 
-## CREWReplicated AudioCapture
-A networked audio solution with routable audio streams for clients networked locally.
+<img src=".doc/img/Circa_logo_white.png" alt="drawing" width="600">
 
-https://github.com/CREW-Brussels/CREWReplicatedAudioCapture
+
+Crew InteRaCtive Archive is a way for recording performances into Unreal, baking them into a standalone application which can be used for playback with or without VR headset.
+
+
 
 ## About
 <img src="https://github.com/user-attachments/assets/bc9dba6e-2478-4d09-86ca-c735ae73f21b" alt="CREW-LOGO" height="70"/>  
