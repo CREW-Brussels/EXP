@@ -54,7 +54,7 @@ Crew InteRaCtive Archive is a way for recording performances into Unreal, baking
 
 ## [7. CREW Animation Utilities](https://github.com/CREW-Brussels/CREWAnimationUtilities)
 
-CREW AnimationUtilities to solve problems such as drift correction
+CREW Animation Utilities is a plugin to solve problems such as drift correction
 
 <img src=".doc/img/Chorus_logo_white.png" alt="drawing" width="600">
 
