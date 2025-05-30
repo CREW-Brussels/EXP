@@ -1,9 +1,0 @@
-[submodule "CHORUS"]
-	path = CHORUS
-	url = https://github.com/CREW-Brussels/CHORUS.git
-[submodule "SPIN"]
-	path = Spin
-	url = https://github.com/CREW-Brussels/Spin.git
-[submodule "CIRCA"]
-	path = CIRCA
-	url = https://github.com/CREW-Brussels/CIRCA.git
