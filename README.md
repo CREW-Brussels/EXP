@@ -16,8 +16,21 @@ A multiplayer project with advanced features for performative LBX.
 
 ***
 
+
+## [SPIN (SPatial Interface Network)](https://github.com/CREW-Brussels/SPIN)
+
+A utility hub for streaming spatial peripherals over the network.
+
+<img src=".doc/img/spin_logo_white.png" alt="drawing" width="600">
+
+### [SPIN Osc](https://github.com/CREW-Brussels/SPINOsc)
+
+An UE Plugin to receive OSC messages from the streaming headset.
+***
+
 ## [CREW XR Framework](https://github.com/CREW-Brussels/CREWXRFramework)
 A Plugin that contains CREW's XR essentials.
+
 <img src=".doc/img/XRFramework_logo_white.png" alt="drawing" width="600">
 
 
@@ -33,14 +46,6 @@ CREW AnimationUtilities to solve problems such as drift correction
 
 
 <img src=".doc/img/Chorus_logo_white.png" alt="drawing" width="600">
-
-***
-
-## [SPIN (SPatial Interface Network)](https://github.com/CREW-Brussels/SPIN)
-
-A utility hub for streaming spatial peripherals over the network.
-
-<img src=".doc/img/spin_logo_white.png" alt="drawing" width="600">
 
 
 ***
