@@ -6,4 +6,4 @@
 	url = https://github.com/CREW-Brussels/Spin.git
 [submodule "CIRCA"]
 	path = CIRCA
-	url = https://github.com/CREW-Brussels/CIRCAPlayer.git
+	url = https://github.com/CREW-Brussels/CIRCA.git
