@@ -8,7 +8,7 @@ You can check our [WIKI](https://github.com/CREW-Brussels/EXP/wiki) or the READM
 
 It consists of:
 
-## [1.CREW EXP Template](https://github.com/CREW-Brussels/CREWNetworkFramework)
+## [1. CREW EXP Template](https://github.com/CREW-Brussels/CREWNetworkFramework)
 
 
 A multiplayer project with advanced features for performative LBX.
@@ -28,7 +28,7 @@ A utility hub for streaming spatial peripherals over the network.
 An UE Plugin to receive OSC messages from the streaming headset.
 ***
 
-## [3.CREW XR Framework](https://github.com/CREW-Brussels/CREWXRFramework)
+## [3. CREW XR Framework](https://github.com/CREW-Brussels/CREWXRFramework)
 A Plugin that contains CREW's XR essentials.
 
 <img src=".doc/img/XRFramework_logo_white.png" alt="drawing" width="600">
@@ -38,13 +38,13 @@ A Plugin that contains CREW's XR essentials.
 A Plugin that faciliate multiplayer and broadcasting.
 ***
 
-## [5.CHORUS](https://github.com/CREW-Brussels/CHORUS)
+## [5. CHORUS](https://github.com/CREW-Brussels/CHORUS)
 
 Advanced tools for recording, playing and manipulating motion capture and other animation data during live performance.
 
 ***
 
-## [6.CIRCA (Crew InteRaCtive Archive)](https://github.com/CREW-Brussels/CIRCA)
+## [6. CIRCA (Crew InteRaCtive Archive)](https://github.com/CREW-Brussels/CIRCA)
 
 Crew InteRaCtive Archive is a way for recording performances into Unreal, baking them into a standalone application which can be used for playback with or without VR headset.
 
@@ -52,7 +52,7 @@ Crew InteRaCtive Archive is a way for recording performances into Unreal, baking
 
 ***
 
-## [7.CREWAnimationUtilities](https://github.com/CREW-Brussels/CREWAnimationUtilities)
+## [7. CREWAnimationUtilities](https://github.com/CREW-Brussels/CREWAnimationUtilities)
 
 CREW AnimationUtilities to solve problems such as drift correction
 
@@ -64,13 +64,13 @@ CREW AnimationUtilities to solve problems such as drift correction
 Replicate audio over local network to VR clients
 ***
 
-## [9.Video Routing](https://github.com/CREW-Brussels/CREWVideoRouter)
+## [9. Video Routing](https://github.com/CREW-Brussels/CREWVideoRouter)
 
 A simple Input/Outputs routing system in UE for a Blackmagic video router
 
 ***
 
-## [10.Magic Leap utilities]
+## [10. Magic Leap utilities](https://github.com/CREW-Brussels/CrewMap)
 A set of tools for Magic Leap AR glasses
 
 ***
