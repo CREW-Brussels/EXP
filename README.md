@@ -8,25 +8,24 @@ You can check our [WIKI](https://github.com/CREW-Brussels/EXP/wiki) for complete
 
 It consists of:
 
-## CREW XR Template
+## [CREW EXP Template](https://github.com/CREW-Brussels/CREWNetworkFramework)
 
 
 A multiplayer project with advanced features for performative LBX.
 
 
-<img src=".doc/img/XRTemplate_logo_white.png" alt="drawing" width="600">
+***
+
+## [CREW XR Framework](https://github.com/CREW-Brussels/CREWXRFramework)
+A Plugin that contains CREW's XR essentials.
+<img src=".doc/img/XRFramework_logo_white.png" alt="drawing" width="600">
+
 
 ***
 
-## CHORUS
+## [CHORUS](https://github.com/CREW-Brussels/CHORUS)
 
-https://github.com/CREW-Brussels/CHORUS
-
-### CHORUS animation susbsystem
-The CHORUS Animation subsystem records animation data into buffers and plays it back in different ways.
-
-### Interactive Performer Tools
-Interactive Performance Tools that leverage this system in different ways for the performers.
+Advanced tools for recording, playing and manipulating motion capture and other animation data during live performance.
 
 ### CREWAnimationUtilities
 CREW AnimationUtilities to solve problems such as drift correction
@@ -37,22 +36,18 @@ CREW AnimationUtilities to solve problems such as drift correction
 
 ***
 
-## SPIN (SPatial Interface Network) 
+## [SPIN (SPatial Interface Network)](https://github.com/CREW-Brussels/SPIN)
 
-https://github.com/CREW-Brussels/SPIN
-
-SPatial Interface Network is a unity app that runs on an android HMD.
-It collects data from sensors such as Vive Ultimate Tracker and sends it over Open Sound Control to other applications.
-It can be controlled through a web interface.
+A utility hub for streaming spatial peripherals over the network.
 
 <img src=".doc/img/spin_logo_white.png" alt="drawing" width="600">
 
 
 ***
 
-## CIRCA (Crew InteRaCtive Archive)
+## [CIRCA (Crew InteRaCtive Archive)](https://github.com/CREW-Brussels/CIRCAPlayer)
 
-https://github.com/CREW-Brussels/CIRCAPlayer
+
 
 Crew InteRaCtive Archive is a way for recording performances into Unreal, baking them into a standalone application which can be used for playback with or without VR headset.
 
