@@ -4,11 +4,11 @@ The framework is currently under heavy development and can be majorly refactored
 If you are bold enough to try it, we recommend Unreal Engine 5.3.
 
 
-You can check our [WIKI](https://github.com/CREW-Brussels/EXP/wiki) for complete documentation.
+You can check our [WIKI](https://github.com/CREW-Brussels/EXP/wiki) or the README of each submodule for complete documentation.
 
 It consists of:
 
-## [CREW EXP Template](https://github.com/CREW-Brussels/CREWNetworkFramework)
+## [1.CREW EXP Template](https://github.com/CREW-Brussels/CREWNetworkFramework)
 
 
 A multiplayer project with advanced features for performative LBX.
@@ -17,42 +17,34 @@ A multiplayer project with advanced features for performative LBX.
 ***
 
 
-## [SPIN (SPatial Interface Network)](https://github.com/CREW-Brussels/SPIN)
+## [2.1 SPIN (SPatial Interface Network)](https://github.com/CREW-Brussels/SPIN)
 
 A utility hub for streaming spatial peripherals over the network.
 
 <img src=".doc/img/spin_logo_white.png" alt="drawing" width="600">
 
-### [SPIN Osc](https://github.com/CREW-Brussels/SPINOsc)
+### [2.2 SPIN Osc](https://github.com/CREW-Brussels/SPINOsc)
 
 An UE Plugin to receive OSC messages from the streaming headset.
 ***
 
-## [CREW XR Framework](https://github.com/CREW-Brussels/CREWXRFramework)
+## [3.CREW XR Framework](https://github.com/CREW-Brussels/CREWXRFramework)
 A Plugin that contains CREW's XR essentials.
 
 <img src=".doc/img/XRFramework_logo_white.png" alt="drawing" width="600">
 
-
+***
+## [4. CREW Network Framework](https://github.com/CREW-Brussels/CREWANetworkFramework)
+A Plugin that faciliate multiplayer and broadcasting.
 ***
 
-## [CHORUS](https://github.com/CREW-Brussels/CHORUS)
+## [5.CHORUS](https://github.com/CREW-Brussels/CHORUS)
 
 Advanced tools for recording, playing and manipulating motion capture and other animation data during live performance.
 
-### CREWAnimationUtilities
-CREW AnimationUtilities to solve problems such as drift correction
-
-
-
-<img src=".doc/img/Chorus_logo_white.png" alt="drawing" width="600">
-
-
 ***
 
-## [CIRCA (Crew InteRaCtive Archive)](https://github.com/CREW-Brussels/CIRCAPlayer)
-
-
+## [6.CIRCA (Crew InteRaCtive Archive)](https://github.com/CREW-Brussels/CIRCA)
 
 Crew InteRaCtive Archive is a way for recording performances into Unreal, baking them into a standalone application which can be used for playback with or without VR headset.
 
@@ -60,6 +52,28 @@ Crew InteRaCtive Archive is a way for recording performances into Unreal, baking
 
 ***
 
+## [7.CREWAnimationUtilities](https://github.com/CREW-Brussels/CREWAnimationUtilities)
+
+CREW AnimationUtilities to solve problems such as drift correction
+
+<img src=".doc/img/Chorus_logo_white.png" alt="drawing" width="600">
+
+***
+## [8. Live Replicated Audio Capture](https://github.com/CREW-Brussels/CREWReplicatedAudioCapture)
+
+Replicate audio over local network to VR clients
+***
+
+## [9.Video Routing](https://github.com/CREW-Brussels/CREWVideoRouter)
+
+A simple Input/Outputs routing system in UE for a Blackmagic video router
+
+***
+
+## [10.Magic Leap utilities]
+A set of tools for Magic Leap AR glasses
+
+***
 
 
 ## About
