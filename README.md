@@ -35,7 +35,7 @@ A Plugin that contains CREW's XR essentials.
 
 ***
 ## [4. CREW Network Framework](https://github.com/CREW-Brussels/CREWANetworkFramework)
-A Plugin that faciliate multiplayer and broadcasting.
+A Plugin that facilitate multiplayer and broadcasting.
 ***
 
 ## [5. CHORUS](https://github.com/CREW-Brussels/CHORUS)
