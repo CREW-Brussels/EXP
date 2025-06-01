@@ -34,7 +34,7 @@ A Plugin that contains CREW's XR essentials.
 <img src=".doc/img/XRFramework_logo_white.png" alt="drawing" width="600">
 
 ***
-## [4. CREW Network Framework](https://github.com/CREW-Brussels/CREWANetworkFramework)
+## [4. CREW Network Framework](https://github.com/CREW-Brussels/CREWNetworkFramework)
 A Plugin that facilitate multiplayer and broadcasting.
 ***
 
