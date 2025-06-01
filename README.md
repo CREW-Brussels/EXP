@@ -8,7 +8,7 @@ You can check our [WIKI](https://github.com/CREW-Brussels/EXP/wiki) or the READM
 
 It consists of:
 
-## [1. CREW EXP Template](https://github.com/CREW-Brussels/CREWNetworkFramework)
+## [1. CREW EXP Template](https://github.com/CREW-Brussels/EXP_Template)
 
 
 A multiplayer project with advanced features for performative LBX.
