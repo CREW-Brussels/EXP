@@ -54,24 +54,24 @@ Crew InteRaCtive Archive is a way for recording performances into Unreal, baking
 
 ## [7. CREW Animation Utilities](https://github.com/CREW-Brussels/CREWAnimationUtilities)
 
-CREW Animation Utilities is a plugin to solve problems such as drift correction
+CREW Animation Utilities is a plugin to solve problems such as drift correction.
 
 <img src=".doc/img/Chorus_logo_white.png" alt="drawing" width="600">
 
 ***
 ## [8. Live Replicated Audio Capture](https://github.com/CREW-Brussels/CREWReplicatedAudioCapture)
 
-Replicate audio over local network to VR clients
+Replicate audio over local network to VR clients.
 ***
 
 ## [9. Video Routing](https://github.com/CREW-Brussels/CREWVideoRouter)
 
-A simple Input/Outputs routing system in UE for a Blackmagic video router
+A simple Input/Outputs routing system in UE for a Blackmagic video hub.
 
 ***
 
 ## [10. Magic Leap utilities](https://github.com/CREW-Brussels/CrewMap)
-A set of tools for Magic Leap AR glasses
+A set of tools for Magic Leap AR glasses.
 
 ***
 
