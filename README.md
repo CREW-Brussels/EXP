@@ -28,13 +28,13 @@ A utility hub for streaming spatial peripherals over the network.
 An UE Plugin to receive OSC messages from the streaming headset.
 ***
 
-## [3. CREW XR Framework](https://github.com/CREW-Brussels/CREWXRFramework)
+## [3. CREW XR Utilities](https://github.com/CREW-Brussels/CREWXRUtilities)
 A Plugin that contains CREW's XR essentials.
 
 <img src=".doc/img/XRFramework_logo_white.png" alt="drawing" width="600">
 
 ***
-## [4. CREW Network Framework](https://github.com/CREW-Brussels/CREWNetworkFramework)
+## [4. CREW Network Utilities](https://github.com/CREW-Brussels/CREWNetworkUtilities)
 A Plugin that facilitate multiplayer and broadcasting.
 ***
 
