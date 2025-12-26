@@ -41,7 +41,7 @@ A Plugin that facilitate multiplayer and broadcasting.
 ## [5. CHORUS](https://github.com/CREW-Brussels/CHORUS)
 
 Advanced tools for recording, playing and manipulating motion capture and other animation data during live performance.
-
+<img src=".doc/img/Chorus_logo_white.png" alt="drawing" width="600">
 ***
 
 ## [6. CIRCA (Crew InteRaCtive Archive)](https://github.com/CREW-Brussels/CIRCA)
@@ -56,7 +56,6 @@ Crew InteRaCtive Archive is a way for recording performances into Unreal, baking
 
 CREW Animation Utilities is a plugin to solve problems such as drift correction.
 
-<img src=".doc/img/Chorus_logo_white.png" alt="drawing" width="600">
 
 ***
 ## [8. Live Replicated Audio Capture](https://github.com/CREW-Brussels/CREWReplicatedAudioCapture)
