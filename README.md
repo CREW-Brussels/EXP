@@ -41,6 +41,7 @@ A Plugin that facilitate multiplayer and broadcasting.
 ## [5. CHORUS](https://github.com/CREW-Brussels/CHORUS)
 
 Advanced tools for recording, playing and manipulating motion capture and other animation data during live performance.
+
 <img src=".doc/img/Chorus_logo_white.png" alt="drawing" width="600">
 ***
 
